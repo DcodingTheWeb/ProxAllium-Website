@@ -1,0 +1,2 @@
+# Ignore the public directory used by hugo to build the site
+public/
