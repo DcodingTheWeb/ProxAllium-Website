@@ -1,3 +1,31 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+# Site title
+title = "ProxAllium"
+
+# Copyright
+copyright = "(c) 2017 Dcoding The Web."
+
+# Language
+languageCode = "en-EN"
+
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# theme to use (located in /themes/THEMENAME/)
+theme = "hyde-y"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+    # You can use markdown here.
+    brand = "ProxAllium"
+    topline = "Tor Proxy Bundle"
+    footline = "Circumventing censorship."
+	
+    # Sidebar position
+    # false, true, "left", "right"
+    sidebar = "left"
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "Home"
