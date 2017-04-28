@@ -13,7 +13,7 @@
 <link rel="author" href="http://plus.google.com/+{{ . }}">
 {{ end }}
 
-<meta property="og:title" content="{{ .Title }} {{ if ne .Title .Site.Title }} &middot; {{ .Site.Title }} {{ end }}">
+<meta property="og:title" content="{{ .Title }} {{ if ne .Title .Site.Title }} {{ .Site.Title }} {{ end }}">
 <meta property="og:site_name" content="{{ .Site.Title }}"/>
 <meta property="og:url" content="{{ .Permalink }}" />
 <meta property="og:locale" content="{{ .Site.LanguageCode }}">

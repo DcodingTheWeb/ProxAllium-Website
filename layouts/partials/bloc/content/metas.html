@@ -1,0 +1,12 @@
+<div class="metas">
+{{ partial "modules/page/date" . }}
+{{ if .IsPage }}
+  {{ with .Params.author }}
+    {{ $.Site.Data.Strings.byauthor }} {{ . }}
+  {{ end }}
+  {{ .Site.Data.Strings.metaReadin }} {{ .ReadingTime }} {{ .Site.Data.Strings.metaReadinMinutes }}
+  ({{ .WordCount }} {{ .Site.Data.Strings.words }})
+  <br>
+  {{ partial "modules/page/tags" . }}
+{{ end }}
+</div>
