@@ -5,5 +5,5 @@ You can chat with other users and developers at irc://irc.oftc.net/#ProxAllium[#
 If you decide to use this webchat widget, be careful as your IP is visible to everyone participating in the chat! Use Tor with an IRC client to hide your IP if you want to keep it private.
 
 +++
-<iframe src="http://webchat.oftc.net/?nick=ProxAllium....&channels=ProxAllium&prompt=1&uio=MTE9MTEzcf" width=700 height=400></iframe>
+<iframe src="https://webchat.oftc.net/?nick=ProxAllium....&channels=ProxAllium&prompt=1&uio=MTE9MTEzcf" width=700 height=400></iframe>
 +++
