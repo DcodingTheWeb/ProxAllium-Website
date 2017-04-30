@@ -1,3 +1,6 @@
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "//proxallium.tuxfamily.org/"
+
 # Site title
 title = "ProxAllium"
 
