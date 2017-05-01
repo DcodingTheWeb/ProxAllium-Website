@@ -2,9 +2,11 @@
 
 ProxAllium is made for Windows and it should work with Windows XP and above.
 
-You can download the 32-bit version which should work on all systems (including 64-bit) from these mirrors:
+The latest version of ProxAllium is https://github.com/DcodingTheWeb/ProxAllium/releases/tag/v0.2-alpha[Featury Feast v0.2-alpha] with Tor `0.2.9.10`. You can download the 32-bit version which should work on all systems (including 64-bit) from these mirrors:
 
 . http://download.tuxfamily.org/proxallium/releases/0.2/ProxAllium-v0.2-alpha_Tor-0.2.9.10.7z[Download from Tux Family]
 . https://github.com/DcodingTheWeb/ProxAllium/releases/download/v0.2-alpha/ProxAllium-v0.2-alpha_Tor-0.2.9.10.7z[Download from GitHub]
 
 You should get a `7z` archive with all of the necessary files required to get ProxAllium running. We recommend using http://7-zip.org[7-zip] to extract the archive!
+
+If you are looking for older versions, you can find them at https://github.com/DcodingTheWeb/ProxAllium/releases[GitHub's releases page] for ProxAllium or you can browse the http://download.tuxfamily.org/proxallium/releases/[download repository] for ProxAllium at TuxFamily.
