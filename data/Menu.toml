@@ -1,9 +1,14 @@
 [1]
+	Name = "Download"
+	Title = "download"
+	URL = "/download"
+
+[2]
 	Name = "Chat"
 	Title = "Chat with fellow ProxAllium enthusiasts in real time!"
 	URL = "/chat"
 
-[2]
+[3]
 	Name = "GitHub"
 	Title = "View ProxAllium at GitHub"
 	URL = "https://github.com/DcodingTheWeb/ProxAllium"
