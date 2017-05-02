@@ -9,6 +9,11 @@
 	URL = "/chat"
 
 [3]
+	Name = "Documentation"
+	Title = "You can find more information about ProxAllium here"
+	URL = "/doc"	
+
+[4]
 	Name = "GitHub"
 	Title = "View ProxAllium at GitHub"
 	URL = "https://github.com/DcodingTheWeb/ProxAllium"
