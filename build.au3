@@ -34,8 +34,6 @@ If @error Then
 EndIf
 
 _DebugOut("Found AsciiDoctor! Starting to build the documentation...")
-_DebugOut('asciidoctor --out-file "' & (@ScriptDir & '\public\doc\index.html') & '" "' & $sDocPath & '"')
-;DirCreate(@ScriptDir & '\public\doc')
 Local $iExitCode = RunWait('cmd /c asciidoctor --out-file "' & (@ScriptDir & '\public\doc\index.html') & '" "' & $sDocPath & '"', @ScriptDir)
 If Not $iExitCode = 0 Then
 	_DebugOut("Error! AsciiDoctor exited with exit code " & $iExitCode)
