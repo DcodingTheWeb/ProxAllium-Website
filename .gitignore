@@ -1,2 +1,5 @@
 # Ignore the public directory used by hugo to build the site
 public/
+
+# Ignore the build.ini file used by build.au3
+build.ini
