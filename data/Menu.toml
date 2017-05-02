@@ -11,7 +11,7 @@
 [3]
 	Name = "Documentation"
 	Title = "You can find more information about ProxAllium here"
-	URL = "/doc"	
+	URL = "/doc"
 
 [4]
 	Name = "GitHub"
