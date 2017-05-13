@@ -1,3 +1,6 @@
+:proxallium_version: v0.2-alpha
+:tor_version: 0.2.9.10
+
 == Download ProxAllium
 
 ProxAllium is made for Windows and it should work with Windows XP and above.
