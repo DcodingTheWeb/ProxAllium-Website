@@ -10,8 +10,6 @@ ProxAllium is made for Windows and it should work with Windows XP and above.
 
 The latest version of ProxAllium is image:https://img.shields.io/github/release/DcodingTheWeb/ProxAllium/all.svg[{proxallium_version},link="https://github.com/DcodingTheWeb/ProxAllium/releases/tag/{proxallium_version}"] with image:https://img.shields.io/badge/Tor-{tor_version}-8A5BA3.svg[Tor {tor_version}]. You can download the 32-bit version which should work on all systems (including 64-bit) from these mirrors:
 
-. {tuxfamily_baseurl}.7z[Download from Tux Family] ({tuxfamily_baseurl}.7z.asc[signature])
-. {github_baseurl}.7z[Download from GitHub] ({github_baseurl}.7z.asc[signature])
 
 You should get a `7z` archive with all of the necessary files required to get ProxAllium running. We recommend using http://7-zip.org[7-zip] to extract the archive! All of the archives are signed, you can find the public key for verifcation https://dcodingtheweb.com/key.asc[here].
 
