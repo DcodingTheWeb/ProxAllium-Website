@@ -1,0 +1,23 @@
+== Screenshots
+Here are some screenshots for your enjoyment! Click a image to open it in the lightbox!
++++
+<link rel="stylesheet" href="baguetteBox.min.css">
+<link rel="stylesheet" href="gallery.css">
+<script src="baguetteBox.min.js" async></script>
+<script>
+window.onload = function() {
+	baguetteBox.run('.gallery');
+};
+</script>
+<div class="gallery">
+	<a href="//download.tuxfamily.org/proxallium/screenshots/main.png" data-caption="Main (Log) Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/main.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/console.png" data-caption="Tor Output Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/console.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/tray.png" data-caption="Tray Icon and Menu">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/tray.png">
+	</a>
+</div>
++++
