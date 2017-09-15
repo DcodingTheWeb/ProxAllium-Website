@@ -5,6 +5,7 @@
 .gallery img {
 	height: 180px;
 	border: dashed 1px #aaa;
-	padding: 2px;
 	box-shadow: 0 0 4px -1px #000;
+	margin-left: 4px;
+	margin-bottom: 8px;
 }
