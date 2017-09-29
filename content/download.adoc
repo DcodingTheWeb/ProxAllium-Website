@@ -8,7 +8,9 @@
 
 ProxAllium is made for Windows and it should work with Windows XP and above.
 
-The latest version of ProxAllium is image:https://img.shields.io/github/release/DcodingTheWeb/ProxAllium/all.svg[{proxallium_version},link="https://github.com/DcodingTheWeb/ProxAllium/releases/tag/{proxallium_version}"] with image:https://img.shields.io/badge/Tor-{tor_version}-8A5BA3.svg[Tor {tor_version}]. You can download the 32-bit version which should work on all systems (including 64-bit) from these mirrors:
+The latest version of ProxAllium is image:https://img.shields.io/github/release/DcodingTheWeb/ProxAllium/all.svg[{proxallium_version},link="https://github.com/DcodingTheWeb/ProxAllium/releases/tag/{proxallium_version}"] with image:https://img.shields.io/badge/Tor-{tor_version}-8A5BA3.svg[Tor {tor_version}].
+
+Download ProxAllium from these mirrors:
 
 . {tuxfamily_baseurl}.7z[Download from Tux Family] ({tuxfamily_baseurl}.7z.sha256[SHA256]) ({tuxfamily_baseurl}.7z.asc[OpenPGP Signature])
 . {github_baseurl}.7z[Download from GitHub] ({github_baseurl}.7z.sha256[SHA256]) ({github_baseurl}.7z.asc[OpenPGP Signature])
@@ -16,3 +18,25 @@ The latest version of ProxAllium is image:https://img.shields.io/github/release/
 You should get a `7z` archive with all of the necessary files required to get ProxAllium running. We recommend using http://7-zip.org[7-zip] to extract the archive! All of the archives are signed, you can find the public key for verifcation https://dcodingtheweb.com/key.asc[here].
 
 If you are looking for older versions, you can find them at https://github.com/DcodingTheWeb/ProxAllium/releases[GitHub's releases page] for ProxAllium or you can browse the http://download.tuxfamily.org/proxallium/releases/[download repository] for ProxAllium at TuxFamily.
+
+++++
+<style>
+/* Hide the table's style */
+
+#changelog {
+	border-width: 0px;
+	border-collapse: collapse;
+}
+
+#changelog tbody > tr > td {
+	padding: 0px;
+	border: 0px;
+}
+</style>
+++++
+
+[id="changelog"]
+|===
+a|
+include::content\changelog.adoc[leveloffset=+1]
+|===

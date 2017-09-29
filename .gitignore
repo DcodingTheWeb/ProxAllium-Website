@@ -3,3 +3,6 @@ public/
 
 # Ignore the build.ini file used by build.au3
 build.ini
+
+# Ignore changelog from ProxAllium's source code
+content/changelog.adoc
