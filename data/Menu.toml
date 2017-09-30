@@ -1,24 +1,24 @@
 [1]
-	Name = "Screenshots"
+	Name = "🖼️ Screenshots"
 	Title = "Look at ProxAllium's screenshots"
 	URL = "/screenshots"
 
 [2]
-	Name = "Download"
+	Name = "⬇️ Download"
 	Title = "Download the latest version of ProxAllium"
 	URL = "/download"
 
 [3]
-	Name = "Chat"
+	Name = "💬 Chat"
 	Title = "Chat with fellow ProxAllium enthusiasts in real time!"
 	URL = "/chat"
 
 [4]
-	Name = "Documentation"
+	Name = "📗 Documentation"
 	Title = "You can find more information about ProxAllium here"
 	URL = "/doc"
 
 [5]
-	Name = "GitHub"
+	Name = "🐙 GitHub"
 	Title = "View ProxAllium at GitHub"
 	URL = "https://github.com/DcodingTheWeb/ProxAllium"
