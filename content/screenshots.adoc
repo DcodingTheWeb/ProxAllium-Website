@@ -1,5 +1,6 @@
 == Screenshots
-Here are some screenshots for your enjoyment! Click a image to open it in the lightbox!
+Here are some screenshots for your enjoyment! Click an image to open it in the lightbox!
+
 +++
 <link rel="stylesheet" href="baguetteBox.min.css">
 <link rel="stylesheet" href="gallery.css">
@@ -9,15 +10,34 @@ window.onload = function() {
 	baguetteBox.run('.gallery');
 };
 </script>
++++
+
+=== v0.3-beta
++++
 <div class="gallery">
-	<a href="//download.tuxfamily.org/proxallium/screenshots/main.png" data-caption="Main (Log) Window">
-		<img src="//download.tuxfamily.org/proxallium/screenshots/main.png">
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.3-beta/main.png" data-caption="Main Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.3-beta/main.png">
 	</a>
-	<a href="//download.tuxfamily.org/proxallium/screenshots/console.png" data-caption="Tor Output Window">
-		<img src="//download.tuxfamily.org/proxallium/screenshots/console.png">
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.3-beta/console.png" data-caption="Tor Output Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.3-beta/console.png">
 	</a>
-	<a href="//download.tuxfamily.org/proxallium/screenshots/tray.png" data-caption="Tray Icon and Menu">
-		<img src="//download.tuxfamily.org/proxallium/screenshots/tray.png">
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.3-beta/tray.png" data-caption="Tray Icon and Menu">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.3-beta/tray.png">
+	</a>
+</div>
++++
+
+=== v0.2-alpha
++++
+<div class="gallery">
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.2-alpha/main.png" data-caption="Main (Log) Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.2-alpha/main.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.2-alpha/console.png" data-caption="Tor Output Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.2-alpha/console.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.2-alpha/tray.png" data-caption="Tray Icon and Menu">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.2-alpha/tray.png">
 	</a>
 </div>
 +++
