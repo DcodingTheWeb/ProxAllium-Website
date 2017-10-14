@@ -1,0 +1,21 @@
+== Donate
+
+Thank you for taking the interest to donate!
+
+Donations can be used to buy a new domain, a server, a new life (for me, lol).
+
+I think most of the money will go towards my personal spending in the beginning.
+Funding me would give me more motivation and an alternate source of income, if I somehow get more money than freelancing, I can work on ProxAllium full time and therefore you will benefit indirectly!
+Sort of like hiring me to work on ProxAllium.
+
+I have plans to buy a new domain and a new server (VPS) if I get enough monthly donations. I can use the server to run a Tor server so that you guys can have an `.onion` entry point to this website.
+
+=== Ways to donate
+
+. https://salt.bountysource.com/teams/proxallium[Salt (by Bountysource)] - Allows monthly contributions, one-time donations. (Flat 10% fee for withdrawing funds)
+. https://gratipay.com/ProxAllium/[Gratipay] - Weekly contributions only. (No fee is taken by these folks but PayPal charges 2% to withdraw)
+. link:bitcoin:19tt7iRnkDX8BTf9EPRZ3f5jwvdd14fEUs[Bitcoin] - You can send some coins to `19tt7iRnkDX8BTf9EPRZ3f5jwvdd14fEUs` ;)
+
+image::https://download.tuxfamily.org/proxallium/bitcoin.png[Bitcoin Donation QR Code]
+
+If you want to donate by any other means, please feel free to contact me at my public email: TheDcoder@protonmail.com
