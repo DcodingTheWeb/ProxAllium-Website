@@ -12,11 +12,15 @@ I have plans to buy a new domain and a new server (VPS) if I get enough monthly 
 
 === Ways to donate
 
-. https://salt.bountysource.com/teams/proxallium[Salt (by Bountysource)] - Allows monthly contributions, one-time donations. (Flat 10% fee for withdrawing funds)
-. [.line-through]#https://gratipay.com/ProxAllium/[Gratipay] - Weekly contributions only. (No fee is taken by these folks but PayPal charges 2% to withdraw)# Gratipay is going down :(
+. https://salt.bountysource.com/teams/proxallium[Salt (by Bountysource)] - *Monthly contributions and one-time donations.* (Flat 10% fee for withdrawing funds)
+. https://liberapay.com/DcodingTheWeb[Liberapay] - *Weekly/Monthly/Yearly contributions, accepts $ and €*. (No fee is taken by these folks, some fee taken by payment processor to withdraw)
 . link:bitcoin:19tt7iRnkDX8BTf9EPRZ3f5jwvdd14fEUs[Bitcoin] - You can send some coins to `19tt7iRnkDX8BTf9EPRZ3f5jwvdd14fEUs` ;)
 
 image::https://download.tuxfamily.org/proxallium/bitcoin.png[Bitcoin Donation QR Code]
+
++++
+<script src="https://liberapay.com/DcodingTheWeb/widgets/receiving.js"></script>
++++
 
 If you want to donate by any other means, please feel free to contact me at my public email: TheDcoder@protonmail.com
 
