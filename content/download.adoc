@@ -17,7 +17,7 @@ Download ProxAllium from these mirrors:
 
 You should get a `7z` archive with all of the necessary files required to get ProxAllium running. We recommend using http://7-zip.org[7-zip] to extract the archive! All of the archives are signed, you can find the public key for verifcation https://dcodingtheweb.com/key.asc[here].
 
-If you are looking for older versions, you can find them at https://github.com/DcodingTheWeb/ProxAllium/releases[GitHub's releases page] for ProxAllium or you can browse the https://download.tuxfamily.org/proxallium/releases/[download repository] for ProxAllium at TuxFamily. (These folks even provide ftp://download.tuxfamily.org/proxallium/releases/v0.2-alpha/[FTP] access!)
+If you are looking for older versions, you can find them at https://github.com/DcodingTheWeb/ProxAllium/releases[GitHub's releases page] for ProxAllium or you can browse the https://download.tuxfamily.org/proxallium/releases/[download repository] for ProxAllium at TuxFamily. (These folks even provide ftp://download.tuxfamily.org/proxallium/releases[FTP] access!)
 
 ++++
 <style>
