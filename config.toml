@@ -4,8 +4,8 @@ baseurl = "//proxallium.org/"
 # Site title
 title = "ProxAllium"
 
-# Copyright
-copyright = "(c) 2017 Dcoding The Web."
+# Copyleft
+copyright = "(ɔ) 2018 Dcoding The Web."
 
 # Language
 languageCode = "en-EN"
