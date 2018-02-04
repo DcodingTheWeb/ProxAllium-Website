@@ -1,0 +1,21 @@
+#main-footer .banner.container {
+	display: flex;
+	margin-bottom: 1em;
+}
+
+.foot-banner {
+	margin-right: 5px;
+	border: solid 1px;
+	border-radius: 10px;
+	padding: 5px;
+	text-align: center;
+}
+
+.foot-banner img {
+	max-height: 3em;
+	margin: 5px;
+}
+
+.container.nav.foot a {
+	margin: 3px;
+}
