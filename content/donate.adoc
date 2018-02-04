@@ -23,12 +23,3 @@ image::https://download.tuxfamily.org/proxallium/bitcoin.png[Bitcoin Donation QR
 +++
 
 If you want to donate by any other means, please feel free to contact me at my public email: TheDcoder@protonmail.com
-
-// CSS code for strike-through
-+++
-<style>
-.line-through {
-	text-decoration: line-through;
-}
-</style>
-+++
