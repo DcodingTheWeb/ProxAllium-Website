@@ -15,8 +15,9 @@ I have plans to buy a new domain and a new server (VPS) if I get enough monthly 
 . https://salt.bountysource.com/teams/proxallium[Salt (by Bountysource)] - *Monthly contributions and one-time donations.* (Flat 10% fee for withdrawing funds)
 . https://liberapay.com/DcodingTheWeb[Liberapay] - *Weekly/Monthly/Yearly contributions, accepts $ and €*. (No fee is taken by these folks, some fee taken by payment processor to withdraw)
 . link:bitcoin:19tt7iRnkDX8BTf9EPRZ3f5jwvdd14fEUs[Bitcoin] - You can send some coins to `19tt7iRnkDX8BTf9EPRZ3f5jwvdd14fEUs` ;)
-
+. link:monero:4ALDqNKsfPfKrE4uLV4WzRZqsXG1ELVi9bdoCF814et4KjVSQusAA86Ni8mmDTbmX2MTMmVQ9ShDWMZBC7fdUH5QFA23TD2?tx_description=ProxAllium%20Donation[Monero] - Or donate anonymously with your precious Monero! `4ALDqNKsfPfKrE4uLV4WzRZqsXG1ELVi9bdoCF814et4KjVSQusAA86Ni8mmDTbmX2MTMmVQ9ShDWMZBC7fdUH5QFA23TD2`
 image::https://download.tuxfamily.org/proxallium/bitcoin.png[Bitcoin Donation QR Code]
+image::https://download.tuxfamily.org/proxallium/monero.png[Monero Donation QR Code]
 
 +++
 <script src="https://liberapay.com/DcodingTheWeb/widgets/receiving.js"></script>
