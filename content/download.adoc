@@ -1,5 +1,5 @@
 :proxallium_version: v0.3-beta_hotfix
-:tor_version: 0.3.2.10
+:tor_version: 0.3.3.7
 
 :tuxfamily_baseurl: https://download.tuxfamily.org/proxallium/releases/{proxallium_version}/ProxAllium-{proxallium_version}_Tor-{tor_version}
 :github_baseurl: https://github.com/DcodingTheWeb/ProxAllium/releases/download/{proxallium_version}/ProxAllium-{proxallium_version}_Tor-{tor_version}
