@@ -10,6 +10,15 @@ ProxAllium is made for Windows and it should work with Windows XP and above.
 
 The latest version of ProxAllium is image:https://img.shields.io/github/release/DcodingTheWeb/ProxAllium/all.svg[{proxallium_version},link="https://github.com/DcodingTheWeb/ProxAllium/releases/tag/{proxallium_version}"] with image:https://img.shields.io/badge/Tor-{tor_version}-8A5BA3.svg[Tor {tor_version}].
 
+[id=thanks]
+--
+*Thank you for using ProxAllium!* This will be the final release which is written in AutoIt, I am planning to re-write it in C and make it cross-platform.
+
+However I can hardly take time out for my personal projects as I am busy working as a freelance software developer full time now, please consider link:../donate[donating] to support the development costs and encourage further development.
+
+You can also share ProxAllium with your friends and family, the more the better! My main motivation are my users 😄
+--
+
 Download ProxAllium from these mirrors:
 
 . {tuxfamily_baseurl}.7z[Download from Tux Family] ({tuxfamily_baseurl}.7z.sha256[SHA256]) ({tuxfamily_baseurl}.7z.asc[OpenPGP Signature])
@@ -21,6 +30,16 @@ If you are looking for older versions, you can find them at https://github.com/D
 
 ++++
 <style>
+/* "Thank You" message styles */
+#thanks {
+	color: #E0115F;
+	padding: 5px;
+	border: solid 2px #115fe0;
+	border-radius: 10px;
+	margin: 5px;
+	margin-bottom: 20px;
+}
+
 /* Hide the table's style */
 #changelog tbody > tr > td {
 	padding: 0px;
