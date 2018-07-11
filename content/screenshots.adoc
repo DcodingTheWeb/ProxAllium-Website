@@ -12,6 +12,27 @@ window.onload = function() {
 </script>
 +++
 
+=== v0.4
++++
+<div class="gallery">
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.4/main.png" data-caption="Main Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.4/main.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.4/console.png" data-caption="Tor Output Window">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.4/console.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.4/options.png" data-caption="Options">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.4/options.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.4/options_2.png" data-caption="View Options">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.4/options_2.png">
+	</a>
+	<a href="//download.tuxfamily.org/proxallium/screenshots/v0.4/tray.png" data-caption="Tray Icon and Menu">
+		<img src="//download.tuxfamily.org/proxallium/screenshots/v0.4/tray.png">
+	</a>
+</div>
++++
+
 === v0.3-beta
 +++
 <div class="gallery">
