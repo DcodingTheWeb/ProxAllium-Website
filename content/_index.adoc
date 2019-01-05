@@ -8,12 +8,8 @@ ProxAllium is a FOSS (Free and Open Source) GUI wrapper for https://www.torproje
 == Getting started
 It is easy to get started with ProxAllium, just download it and you are ready to go!
 
-You can also take a look at the link:../doc[documentation], we are in the process of documenting stuff.
-
 == Download
 You can head over to the "link:../download[Download]" page to download ProxAllium.
 
-link:../doc/#mailing-list-email-updates[Make sure that you stay updated], older versions may compromise your privacy/security.
-
 == Found a bug?
-Feel free to report a bug at https://github.com/DcodingTheWeb/ProxAllium/issues[GitHub's Issue Tracker]... If possible, you can also link:../doc/#i-have-a-question-where-can-i-ask[ask] before submitting an issue.
+Feel free to report a bug at https://github.com/DcodingTheWeb/ProxAllium/issues[GitHub's Issue Tracker]... If possible, you can also visit the link:../chat[chat] page to see if I am online!

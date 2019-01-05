@@ -14,16 +14,11 @@
 	URL = "/chat"
 
 [4]
-	Name = "📗 Documentation"
-	Title = "You can find more information about ProxAllium here"
-	URL = "/doc"
-
-[5]
 	Name = "🐙 GitHub"
 	Title = "View ProxAllium at GitHub"
 	URL = "https://github.com/DcodingTheWeb/ProxAllium"
 
-[6]
+[5]
 	Name = "💰 Donate 💚"
 	Title = "Financially support the development"
 	URL = "/donate"
