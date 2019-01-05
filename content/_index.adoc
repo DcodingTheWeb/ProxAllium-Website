@@ -1,3 +1,6 @@
++++
++++
+
 image::https://download.tuxfamily.org/proxallium/icons/128.png[ProxAllium]
 == ProxAllium
 ProxAllium is a FOSS (Free and Open Source) GUI wrapper for https://www.torproject.org/[Tor]. I like to call it a "Tor Proxy Bundle" (like the Tor Browser Bundle).
