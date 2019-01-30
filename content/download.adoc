@@ -2,7 +2,7 @@
 +++
 
 :proxallium_version: v0.4.1
-:tor_version: 0.3.4.9
+:tor_version: 0.3.5.7
 
 :tuxfamily_baseurl: https://download.tuxfamily.org/proxallium/releases/{proxallium_version}/ProxAllium-{proxallium_version}_Tor-{tor_version}
 :github_baseurl: https://github.com/DcodingTheWeb/ProxAllium/releases/download/{proxallium_version}/ProxAllium-{proxallium_version}_Tor-{tor_version}
