@@ -1,18 +1,19 @@
-:proxallium_version: v0.4.1
-:tor_version: 0.4.0.5
+:proxallium_version: v0.4.2
 
-:tuxfamily_baseurl: https://download.tuxfamily.org/proxallium/releases/{proxallium_version}/ProxAllium-{proxallium_version}_Tor-{tor_version}
-:github_baseurl: https://github.com/DcodingTheWeb/ProxAllium/releases/download/{proxallium_version}/ProxAllium-{proxallium_version}_Tor-{tor_version}
+:tuxfamily_baseurl: https://download.tuxfamily.org/proxallium/releases/{proxallium_version}/ProxAllium-{proxallium_version}
+:github_baseurl: https://github.com/DcodingTheWeb/ProxAllium/releases/download/{proxallium_version}/ProxAllium-{proxallium_version}
 
 == Download ProxAllium
 
 ProxAllium is made for Windows and it should work with Windows XP and above.
 
-The latest version of ProxAllium is image:https://img.shields.io/github/release/DcodingTheWeb/ProxAllium/all.svg[{proxallium_version},link="https://github.com/DcodingTheWeb/ProxAllium/releases/tag/{proxallium_version}"] with image:https://img.shields.io/badge/Tor-{tor_version}-8A5BA3.svg[Tor {tor_version}].
+The latest version of ProxAllium is image:https://img.shields.io/github/release/DcodingTheWeb/ProxAllium/all.svg[{proxallium_version},link="https://github.com/DcodingTheWeb/ProxAllium/releases/tag/{proxallium_version}"].
+
+*Note for previous users*: If you are a previous user of ProxAllium and are updating now, I encourage you to install Tor Browser and use Tor from it as Tor is no longer bundled with ProxAllium (see <<changelog>>). The process is simple and ProxAllium will guide you through most of it, to get started with the Tor update, delete the "Tor" folder before running the updated version.
 
 [id=thanks]
 --
-*Thank you for using ProxAllium!* This will be the final release which is written in AutoIt, I am planning to re-write it in C and make it cross-platform.
+*Thank you for using ProxAllium!* This will be the final release which is written in AutoIt, I am rewriting a new cross-platform version in C.
 
 However I can hardly take time out for my personal projects as I am busy working as a freelance software developer full time now, please consider link:../donate[donating] to support the development costs and encourage further development.
 
