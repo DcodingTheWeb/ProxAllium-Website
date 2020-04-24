@@ -4,8 +4,8 @@ baseurl = "//proxallium.dtw.tools/"
 # Site title
 title = "ProxAllium"
 
-# Copyleft
-copyright = "(ɔ) 2018 Dcoding The Web."
+# Copyright
+copyright = "© 2020 Dcoding The Web."
 
 # Language
 languageCode = "en-EN"
