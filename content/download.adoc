@@ -60,5 +60,5 @@ If you are looking for older versions, you can find them at https://github.com/D
 [id="changelog"]
 |===
 a|
-include::content\changelog.adoc[leveloffset=+1]
+include::content/changelog.adoc[leveloffset=+1]
 |===
