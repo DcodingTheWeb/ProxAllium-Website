@@ -14,5 +14,5 @@ If you decide to use this webchat widget, be careful as your IP is visible to ev
 	width: 100%;
 	height: 500;
 }
-<style>
+</style>
 +++
