@@ -3,7 +3,45 @@
 
 You can chat with other users and developers at irc://irc.oftc.net/#ProxAllium[#ProxAllium] on https://www.oftc.net/[OFTC] (Open and Free Technology Community). If you don't know much about https://en.wikipedia.org/wiki/Internet_Relay_Chat[IRC], you can just use the webchat below to chat in your browser!
 
-== Webchat
+Alternatively I have created a new https://gitter.im/ProxAllium/chat[Gitter] community/chatroom for those who find web-based chat convinent, you can use GitHub/GitLab/Twitter etc. to login, which is pretty nice!
+
+== Gitter
+
+Press this button to open the chat in a sidecar:
+
+++++
+<a id="gitter-open-chat">Open Chat</a>
+<script>
+	((window.gitter = {}).chat = {}).options = {
+		room: 'ProxAllium/chat',
+		activationElement: '#gitter-open-chat',
+	};
+</script>
+<script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script>
+<style>
+#gitter-open-chat {
+	color: white;
+	font-family: sans-serif;
+	background: #4CAF50;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	padding: .8em;
+	margin-bottom: 2rem;
+	border-top-left-radius: .5em;
+	border-top-right-radius: .5em;
+	border-bottom-left-radius: .5em;
+	border-bottom-right-radius: .5em;
+}
+
+#gitter-open-chat:hover {
+	background-color: #3E8E41;
+	transition: all .3s ease;
+}
+</style>
+++++
+
+== OFTC Webchat
 
 If you decide to use this webchat widget, be careful as your IP is visible to everyone participating in the chat! Use Tor with an IRC client to hide your IP if you want to keep it private.
 
