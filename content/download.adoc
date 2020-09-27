@@ -15,7 +15,7 @@ The latest version of ProxAllium is image:https://img.shields.io/github/release/
 --
 *Thank you for using ProxAllium!* This will be the final release which is written in AutoIt, I am rewriting a new cross-platform version in C.
 
-However I can hardly take time out for my personal projects as I am busy working as a freelance software developer full time now, please consider https://www.patreon.com/DTW[donating] to support the development costs and encourage further development.
+However I can hardly take time out for my personal projects as I am busy working as a freelance software developer full time now, please consider https://liberapay.com/DcodingTheWeb[donating] to support the development costs and encourage further development.
 
 You can also share ProxAllium with your friends and family, the more the better! My main motivation are my users 😄
 --
