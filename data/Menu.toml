@@ -17,3 +17,8 @@
 	Name = "🐙 GitHub"
 	Title = "View ProxAllium at GitHub"
 	URL = "https://github.com/DcodingTheWeb/ProxAllium"
+
+[5]
+	Name = "💰 Donate 💚"
+	Title = "Financially support the development"
+	URL = "https://liberapay.com/DcodingTheWeb"
